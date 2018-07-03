@@ -9,6 +9,7 @@ def fizzbuzz(number)
   when buzz then "buzz"
   else number
   end
+
 =begin
   if number % 3 == 0 && number % 5 == 0
     return "fizzbuzz"
@@ -17,6 +18,7 @@ def fizzbuzz(number)
   else return number
   end
 =end
+
 end
 
 
